@@ -1,3 +1,4 @@
 commit 1
 commit 2
-commit feature dev1
+commit feature 1 dev1
+commit feature 2 dev1
